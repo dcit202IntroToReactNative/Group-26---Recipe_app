@@ -8,7 +8,7 @@ import MenuImage from "../../components/MenuImage/MenuImage";
 export default function CategoriesScreen(props) {
   const { navigation } = props;
 
-  
+  useLayoutEffect(() => {
     navigation.setOptions({
       headerTitleStyle: {
         fontWeight: "bold",
