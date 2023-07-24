@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
     marginLeft: 10,
     marginRight: 10,
     borderRadius: 100,
-    borderColor: '#2cd18a',
+    borderColor: '#2cd1cc',
     borderWidth: 1,
     justifyContent: 'center',
     alignItems: 'center'
@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
   },
   text: {
     fontSize: 14,
-    color: '#2cd18a'
+    color: '#2cd1cc'
   }
 });
 
