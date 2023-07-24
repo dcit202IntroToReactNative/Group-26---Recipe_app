@@ -1,4 +1,5 @@
-#﻿ Recipe App - React Native
+
+# Recipe App - React Native
 # Group 26
 Welcome to the Recipe App built with React Native! This mobile app allows you to discover a diverse collection of delightful recipes. You can explore recipes based on categories, search for specific dishes, and view detailed recipe pages.
 
