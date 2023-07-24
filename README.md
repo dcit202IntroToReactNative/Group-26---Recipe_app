@@ -10,7 +10,7 @@ Welcome to the Recipe App built with React Native! This mobile app allows you to
 
 - Search Functionality: Utilize the search feature to look for recipes by name, ingredients, or keywords. Simply enter your query, and the app will display relevant recipe results.
 
-= Recipe Details: By tapping on any recipe from the home screen, categories screen, or search results, you can access its detailed page. Here, you will find a comprehensive recipe with ingredients, step-by-step instructions, and additional tips or notes.
+- Recipe Details: By tapping on any recipe from the home screen, categories screen, or search results, you can access its detailed page. Here, you will find a comprehensive recipe with ingredients, step-by-step instructions, and additional tips or notes.
 
 
 ## Group Members
